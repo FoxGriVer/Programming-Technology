@@ -1,0 +1,12 @@
+D:\Учеба\4 семестр\Технологии программирования\Лабы\6\my_lab6\TP\bin\Debug\TP.exe.config
+D:\Учеба\4 семестр\Технологии программирования\Лабы\6\my_lab6\TP\bin\Debug\TP.exe
+D:\Учеба\4 семестр\Технологии программирования\Лабы\6\my_lab6\TP\bin\Debug\TP.pdb
+D:\Учеба\4 семестр\Технологии программирования\Лабы\6\my_lab6\TP\obj\Debug\Console.csprojResolveAssemblyReference.cache
+D:\Учеба\4 семестр\Технологии программирования\Лабы\6\my_lab6\TP\obj\Debug\TP.exe
+D:\Учеба\4 семестр\Технологии программирования\Лабы\6\my_lab6\TP\obj\Debug\TP.pdb
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\TP\bin\Debug\TP.exe.config
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\TP\obj\Debug\TP.exe
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\TP\obj\Debug\TP.pdb
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\TP\bin\Debug\TP.exe
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\TP\bin\Debug\TP.pdb
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\TP\obj\Debug\Console.csprojResolveAssemblyReference.cache

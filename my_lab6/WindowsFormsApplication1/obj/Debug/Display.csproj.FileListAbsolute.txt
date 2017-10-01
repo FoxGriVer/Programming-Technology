@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\WindowsFormsApplication1\obj\Debug\Display.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EditForm.resources
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\WindowsFormsApplication1\obj\Debug\Display.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\тхи\jh\6\my_lab6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

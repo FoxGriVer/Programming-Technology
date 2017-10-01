@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TP.AbstractPlane">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAgAAAAIAAAAAAAQBAGAEAQAgAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP.AbstractCivilPlane">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractCivilPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP.MilitaryPlane">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAABAAAAAAAAQAAQEAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>MilitaryPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP.PassangerPlane">
+    <Position X="1.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAgACAAAAAAAAAAAIAAAACAEAAAAEAAAABAAAAAAA=</HashCode>
+      <FileName>PassangerPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP.TransportationPlane">
+    <Position X="5.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACgACAAAAAAAAAAAAAIAAAAGAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TransportationPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP.Flight">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAIAAAAAAAAAAAAAABAAAAAQAAAAA=</HashCode>
+      <FileName>Flight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP.Airport">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIACAAAAAAAAAAABAAAAAAAABAAAAABACAAAAAAAAAA=</HashCode>
+      <FileName>Airport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP.AirportFactory">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AirportFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
