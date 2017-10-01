@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\Проверка\Ping\Ping\bin\Debug\Ping.exe
+C:\Users\User\Desktop\C#\Проверка\Ping\Ping\bin\Debug\Ping.pdb
+C:\Users\User\Desktop\C#\Проверка\Ping\Ping\obj\Debug\Ping.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\Проверка\Ping\Ping\obj\Debug\Ping.Form1.resources
+C:\Users\User\Desktop\C#\Проверка\Ping\Ping\obj\Debug\Ping.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Проверка\Ping\Ping\obj\Debug\Ping.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#\Проверка\Ping\Ping\obj\Debug\Ping.exe
+C:\Users\User\Desktop\C#\Проверка\Ping\Ping\obj\Debug\Ping.pdb
